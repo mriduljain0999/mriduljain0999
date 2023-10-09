@@ -1,3 +1,4 @@
+![logo](https://github.com/mriduljain0999/mriduljain0999/blob/main/MRidul.png)
 <h1 align="center">Hi 👋, I'm Mridul Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
