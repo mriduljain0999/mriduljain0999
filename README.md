@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **animating websites using JavaScript**
 
-- 🌱 I’m currently learning **GSAP**
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **tobecoder8@gmail.com**
 
